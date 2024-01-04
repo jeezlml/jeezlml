@@ -46,5 +46,6 @@ Here are some ideas to get you started:
 
 ***
 ### 📊 Most Used Language 
-![image]({[BadgeURLHere](https://github-readme-stats.vercel.app/api/top-langs/?username={jeezlml})https://github-readme-stats.vercel.app/api/top-langs/?username={jeezlml}})
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeezlml)
+
 
